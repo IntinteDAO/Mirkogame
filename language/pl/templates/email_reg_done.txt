@@ -1,0 +1,9 @@
+﻿Witaj {USERNAME}
+
+Dziękujemy za rejestrację na {GAMENAME}
+
+Cieszymy się, że postanowiłeś dołączyć do naszej spoleczności.
+
+Pozdrowienia,
+
+{GAMENAME}
